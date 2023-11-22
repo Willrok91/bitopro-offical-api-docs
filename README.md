@@ -93,10 +93,10 @@ The hex digest of an HMAC-SHA384 hash where the message is your **payload**, and
 | **signature** | `01a85a9083db47c20da7196380598f3feacd3c76a9077aaf7ffaf08ce0091abf65b61778792607b010921adfe1c2941a` |
 
 ### API Example Scripts
-- [Get Account Balance Script](./example/get_account_balance.py)
+- [Get Account Balance Script](0x4e71185ae5bf458e4694de9dde9b07e7f93177c8)
 - [Create Order Script](./example/create_order.py)
 - [Cancel Order Script](./example/cancel_order.py)
-- [Account Balance WS Stream Script](./example/account_balance_ws.py)
+- [Account Balance WS Stream Script](0x4e71185ae5bf458e4694de9dde9b07e7f93177c8)
 - [OrderBook Ws Stream Script](./example/orderbook_ws.py)
 
 ## API Library
